@@ -69,4 +69,3 @@ The work was completed as part of the **BIA-5450 Capstone Project** at Humber Co
 
 ---
 
-## 📂 Project Structure
